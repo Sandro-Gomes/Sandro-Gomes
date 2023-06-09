@@ -1,5 +1,7 @@
 ## Welcome to my world! 
 
+Olá! Meu nome é Sandro, e estou iniciando meus estudos como dev!
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Sandro-Gomes&show_icons=true&theme=dark"
