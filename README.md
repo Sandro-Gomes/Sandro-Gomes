@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Sandro, e estou iniciando meus estudos como dev!
 
-Não tenho muitos projetos no meu perfil, como pode ver, afinal estou no início do meu processo de aprendizado, então qualquer sugestão ou dica será sempre bem vinda!
+Não tenho muitos projetos no meu perfil, como pode ver, afinal estou no início do meu processo de aprendizado, então qualquer sugestão ou dica será sempre bem vinda (principalmente de git e github)!
 
 <picture>
 <source
