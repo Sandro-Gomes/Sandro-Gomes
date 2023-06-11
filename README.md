@@ -2,6 +2,8 @@
 
 Olá! Meu nome é Sandro, e estou iniciando meus estudos como dev!
 
+Não tenho muitos projetos no meu perfil, como pode ver, afinal estou no início do meu processo de aprendizado, então qualquer sugestão ou dica será sempre bem vinda!
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Sandro-Gomes&show_icons=true&theme=dark"
